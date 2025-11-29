@@ -46,7 +46,7 @@ The ETL script performs:
 Here are the screenshots stored under /images uploaded to GitHub:
 
 ### 📍 Page 1 — Audit Overview
-![Page 1](images/Screenshot%202025-11-29%20013437.png)
+![Page 1](images/Screenshot%202025-11-29%20015830.png)
 
 ### 📍 Page 2 — Fraud & Anomaly Detection
 ![Page 2](images/Screenshot%202025-11-29%20015928.png)
@@ -56,6 +56,7 @@ Here are the screenshots stored under /images uploaded to GitHub:
 
 ### 📍 Page 4 — Merchant Drill-Through Profile
 ![Page 4](images/Screenshot%202025-11-29%20015944.png)
+
 
 ## 🧩 Key Insights
 - 91M+ total transaction value  
