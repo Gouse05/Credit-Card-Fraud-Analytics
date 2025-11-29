@@ -23,7 +23,7 @@ Credit-Card-Fraud-Analytics/
 │── fraudTrain.csv (excluded due to size)  
 │── transactions_cleaned.csv (excluded due to size)  
 │── images/  
-│     ├── Screenshot 2025-11-29 013437.png  
+│     ├── Screenshot 2025-11-29 015830.png  
 │     ├── Screenshot 2025-11-29 015928.png  
 │     ├── Screenshot 2025-11-29 015936.png  
 │     ├── Screenshot 2025-11-29 015944.png  
