@@ -17,7 +17,7 @@ It includes:
 - Git & GitHub (Version control)
 
 ## 📂 Repository Structure
-Credit-Card-Fraud-Analytics/
+Credit-Card-Fraud-Analytics/  
 │── etl_cleaning.py  
 │── README.md  
 │── fraudTrain.csv (excluded due to size)  
@@ -57,8 +57,6 @@ Here are the screenshots stored under /images uploaded to GitHub:
 ### 📍 Page 4 — Merchant Drill-Through Profile
 ![Page 4](images/Screenshot%202025-11-29%20015944.png)
 
-
-
 ## 🧩 Key Insights
 - 91M+ total transaction value  
 - 8K+ fraud transactions  
@@ -67,17 +65,17 @@ Here are the screenshots stored under /images uploaded to GitHub:
 - Merchant-level drill-through reveals repeated offenders  
 
 ## 📥 Getting Started
-Clone the repo:
+Clone the repo:  
 git clone https://github.com/Gouse05/Credit-Card-Fraud-Analytics.git
 
-Run ETL:
+Run ETL:  
 python etl_cleaning.py
 
-Open in Power BI:
+Open in Power BI:  
 Import the CSV → Load PBIX → Explore dashboards.
 
 ## 👤 Author
-**Gouse Pasha**  
+**Sheik Gouse Pasha**  
 GitHub: Gouse05
 
 ## ⭐ Support  
